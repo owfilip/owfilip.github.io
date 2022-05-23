@@ -1,8 +1,3 @@
-layout: post
-title: "Use functional approach instead of conditional statements"
-date: 2022-05-23 18:00:00 +0100
-categories: Javascript Typescript
-
 # Use functional approach instead of conditional statements
 
 ## If-else-if
